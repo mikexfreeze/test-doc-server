@@ -1,2 +1,2 @@
 # test-doc-server
-editor 2
+editor 3
